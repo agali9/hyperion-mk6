@@ -1,4 +1,4 @@
-# Hyperion Mk6 (robot-arm)
+# Hyperion Mk6
 
 Hyperion Mk6 is a 6-DOF robotic arm I designed and built: repurposed hoverboard BLDC hub motors on VESC CAN controllers at J1 and J2, serial-bus servos at J3-J6, and a 77-body Fusion 360 assembly with an Isaac Sim digital twin.
 
